@@ -1,0 +1,12 @@
+{
+  "name": "Disable Hover On App & Window Switcher Popups for 45+",
+  "description": "Prevents the mouse cursor interfering with either the App Switcher or the Window Switcher popups.\nNote: It doesn't prevent mouse clicks.\n\nThese are the switcher popups that are invoked from keyboard shortcuts, e.g. Alt+Tab or Super+Tab.\n\nBased on https://extensions.gnome.org/extension/4714/disable-hover-on-app-window-switcher-popups/",
+  "uuid": "disable_switcher_popup_hover@Someone0nEarth-on-github",
+  "url": "https://github.com/Someone0nEarth/gnome-disable-switcher-popup-hover",
+  "shell-version": [
+    "45",
+    "46",
+    "47"
+  ],
+  "version": 1
+}

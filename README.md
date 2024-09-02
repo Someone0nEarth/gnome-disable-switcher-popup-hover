@@ -12,4 +12,5 @@ Based on <https://extensions.gnome.org/extension/4714/disable-hover-on-app-windo
 The extension can be installed using this [link](https://extensions.gnome.org/extension/7305/disable-hover-on-app-window-switcher-popups-for-45/) on Gnomes Extensions Site.
 
 Have fun,
+
   someone.earth
